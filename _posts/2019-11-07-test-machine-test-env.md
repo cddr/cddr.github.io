@@ -3,14 +3,15 @@ layout: post
 title: A Test Environment for Kafka Applications
 ---
 
-In [Testing Event Driven Systems](https://www.confluent.io/blog/testing-event-driven-systems),
-I introduced the test-machine and included a simple example for
-demonstration purposes. I made the claim that however your system is
-implemented, as long as its input and output can be represented in
-Kafka, the test-machine would be an effective tool for testing it. Now
-we’ve had some time to put that claim to the...ahem test, I thought
-it might be interesting to explore some actual use-cases in a bit more
-detail.
+In [Testing Event Driven
+Systems](https://www.confluent.io/blog/testing-event-driven-systems),
+I introduced the test-machine, (a Clojure library for testing kafka
+applications) and included a simple example for demonstration
+purposes. I made the claim that however your system is implemented, as
+long as its input and output can be represented in Kafka, the
+test-machine would be an effective tool for testing it. Now we’ve had
+some time to put that claim to the...ahem test, I thought it might be
+interesting to explore some actual use-cases in a bit more detail.
 
 Having spent a year or so of using the test-machine, I can now say
 with increased confidence that it is an effective tool for
