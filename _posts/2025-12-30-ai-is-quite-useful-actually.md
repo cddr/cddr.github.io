@@ -3,8 +3,6 @@ layout: post
 title: AI is actually quite useful, as it turns out
 ---
 
-# AI is actually quite useful, as it turns out
-
 Is this thing still on?
 
 Apologies for being away so long. I’ve been busy finding joy in things other than "tech," but I felt a need to talk about a recent realization. For developers "getting on a bit," it’s easy to fear that the skills we’ve spent years acquiring are becoming redundant. I certainly felt that way.
