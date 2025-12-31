@@ -26,7 +26,7 @@ The latent space is "scrutable" to the machine but "inscrutable" to humans. We c
     human knowledge. The AI then "decodes" the path between those
     coordinates into the syntax (code) you see on your screen.
 
-As a developer, I’ve started thinking of myself less as a coder (nevertheless a role which I have and will always hold in high esteem) and more as an "Intelligence Miner" expertly navigating to where the rich deposits are. I used to worry that being "niche" was a liability, but in this new world, it’s a strength. My experience acts as a filter; I’m not just digging for code that's "good enough for government work". I want to find the good stuff (__latent space switch__) distilled from pure mountain water. And as the AI helped me realize, I also "have the complex "latent space" of my own history" for all it's ups and downs that help me navigate to the structural truth of a system.
+As a developer, I’ve started thinking of myself less as a coder (nevertheless a role which I have and will always hold in high esteem) and more as an "Intelligence Miner" expertly navigating to where the rich deposits are. I used to worry that being "niche" was a liability, but in this new world, it’s a strength. My experience acts as a filter; I’m not just digging for code that's "good enough for government work". I want to find the good stuff (__latent space switch__) distilled from pure mountain water. And as the AI helped me realize, I also "have the complex "latent space" of my own history" for all it's ups and downs that help me navigate (or hinder if I let it) directly to the structural truth of a system.
 
 ## The Downhill Descent
 
