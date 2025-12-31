@@ -34,4 +34,4 @@ Lately, I've been neglecting my usual passion—hill running—because I've been
 
 Specifically, using AI feels like the downhill segment of a hill race. It’s that frantic, thrilling moment where gravity takes over and you’re just trying to stay balanced and upright while moving at a speed that feels slightly beyond your control. You’re navigating dangerous rocks and hidden bogs, reacting instinctively to the terrain. The "latent space" is the mountain, and the AI is the gravity—it provides a terrifying amount of momentum, but you’re the one choosing the "line."
 
-In truth, some of this writing was inspired by Google's latent space and some of it came from deep within the latent space that only I will ever know. And __that__ is the magic of AI.
+In truth, some of this writing was inspired by Google's latent space and some of it came from deep within the latent space that only I will ever know. And __that__, my fellow Carrie Bradshaw stans is the magic of AI.
