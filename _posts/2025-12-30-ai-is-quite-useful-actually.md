@@ -17,7 +17,13 @@ There is a technical term for this magic place I found myself in: Latent Space.
 
 It’s a mathematical space where a model stores the essence of what it has learned. Think of a library where books aren't sorted by title, but by their internal logic. In this space, a concept like "Distributed Systems Resilience" might sit right next to "Risk Mitigation in Financial Markets." On the surface, they are different fields, but they share a core DNA: the management of chaos through structural guardrails.
 
-As a developer, I’ve started thinking of myself less as a coder (nevertheless a role which I have and will always hold in high esteem) and more as an "Intelligence Miner". I used to worry that being "niche" was a liability, but in this new world, it’s a strength. My experience acts as a filter; I’m not just digging for code that's "good enough for government work". And as the AI helped me realize, I also "have the complex "latent space" of my own history" for all it's ups and downs that help to find the structural truth of a system.
+The latent space is "scrutable" to the machine but "inscrutable" to humans. We can't easily look at a vector like [0.12, -0.98, 0.45...] and say "Oh, that's the part that handles recursion." However, we can navigate it as explained in https://kaans.land/understanding-latent-space
+
+    When you give an AI a prompt, you are essentially giving it a set of coordinates
+    in this massive, invisible map of human knowledge. The AI then "decodes" the path
+    between those coordinates into the syntax (code) you see on your screen.
+    
+As a developer, I’ve started thinking of myself less as a coder (nevertheless a role which I have and will always hold in high esteem) and more as an "Intelligence Miner" helping people build machines to find the valuable deposits. And now I can build my own little machines to find nuggets of my own along the way. I used to worry that being "niche" was a liability, but in this new world, it’s a strength. My experience acts as a filter; I’m not just digging for code that's "good enough for government work". I want to find the good stuff distilled from pure mountain water (see? latent space abuse). And as the AI helped me realize, I also "have the complex "latent space" of my own history" for all it's ups and downs that help me navigate to the structural truth of a system.
 
 ## The Downhill Descent
 
