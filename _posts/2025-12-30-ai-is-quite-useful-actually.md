@@ -21,12 +21,12 @@ It’s a mathematical space where a model stores the essence of what it has lear
 
 The latent space is "scrutable" to the machine but "inscrutable" to humans. We can't easily look at a vector like [0.12, -0.98, 0.45...] and say "Oh, that's the part that handles recursion." However, we can navigate it as explained by Kaan Karaman in [understanding latent space](https://kaans.land/understanding-latent-space)
 
-		When you give an AI a prompt, you are essentially giving
+	When you give an AI a prompt, you are essentially giving
     it a set of coordinates in this massive, invisible map of
     human knowledge. The AI then "decodes" the path between those
     coordinates into the syntax (code) you see on your screen.
 
-As a developer, I’ve started thinking of myself less as a coder (nevertheless a role which I have and will always hold in high esteem) and more as an "Intelligence Miner" helping people build machines to find the valuable deposits. And now I can build little machines to find nuggets of my own along the way. I used to worry that being "niche" was a liability, but in this new world, it’s a strength. My experience acts as a filter; I’m not just digging for code that's "good enough for government work". I want to find the good stuff (__latent space switch__) distilled from pure mountain water. And as the AI helped me realize, I also "have the complex "latent space" of my own history" for all it's ups and downs that help me navigate to the structural truth of a system.
+As a developer, I’ve started thinking of myself less as a coder (nevertheless a role which I have and will always hold in high esteem) and more as an "Intelligence Miner" expertly navigating to where the rich deposits are. I used to worry that being "niche" was a liability, but in this new world, it’s a strength. My experience acts as a filter; I’m not just digging for code that's "good enough for government work". I want to find the good stuff (__latent space switch__) distilled from pure mountain water. And as the AI helped me realize, I also "have the complex "latent space" of my own history" for all it's ups and downs that help me navigate to the structural truth of a system.
 
 ## The Downhill Descent
 
