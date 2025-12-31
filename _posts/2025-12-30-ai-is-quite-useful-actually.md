@@ -7,7 +7,7 @@ Is this thing still on?
 
 Apologies for being away so long. I’ve been busy finding joy in things other than "tech" but I felt a need to talk about a recent realization. For developers "getting on a bit" it’s easy to fear that the skills we’ve spent years acquiring are becoming redundant. I certainly felt that way.
 
-I treated AI as a threat, so I did what I usually do with threats I don't understand: I ignored it (I've thought about asking AI about that but some things it feels scary to ask. Anyone else feel that way?)
+I treated AI as a threat, so I did what I usually do with threats I don't understand: I ignored it and hoped it would go away. Well I think even if you're not a fan of AI, we can both agree the ship has sailed on that one.
 
 Regardless, looking back at my work this year, the volume and quality of what I’ve delivered has actually improved. Q4 was tough though so like all well adjusted programmers, I treated myself, to some programming where I'm my own product manager, and it felt remarkably like "Pair Programming" sessions of old. What a luxury that was eh? Sitting beside another human being, wrestling with contradictions and refining the logic live on a shared screen, each with a keyboard ready to jump in if the inspiration strikes and you just had to take over and share it.
 
